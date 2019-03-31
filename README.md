@@ -19,7 +19,7 @@ from this folder.
 
 # docker-compose
 
-In the docker-compose, there are 3 services: _postgres_, _<project-name>-local_, _<project-name>_:
+In the docker-compose, there are 3 services: _postgres_, _{{project-name}}-local_, _{{project-name}}_:
 
 + _{{project-name}}-local_:
 
