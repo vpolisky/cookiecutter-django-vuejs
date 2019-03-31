@@ -45,4 +45,4 @@ services:
       - postgres
 
 volumes:
-  {{cookiecutter.project_name}}:
+  {{cookiecutter.project_name}}-postgres:
