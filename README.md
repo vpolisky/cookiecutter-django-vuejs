@@ -21,11 +21,11 @@ from this folder.
 
 In the docker-compose, there are 3 services: _postgres_, _<project-name>-local_, _<project-name>_:
 
-+ _<project-name>-local_:
++ _{{project-name}}-local_:
 
     runs code from the project's directory
     
-+ _<project-name>_:
++ _{{project-name}}_:
 
     runs code from the container
     
