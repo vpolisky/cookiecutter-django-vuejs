@@ -1,0 +1,6 @@
+{
+    "project_name": "app",
+    "_copy_without_render": [
+        "webapp"
+    ]
+}
