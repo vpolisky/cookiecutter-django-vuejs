@@ -3,7 +3,7 @@ This cookiecutter creates a scaffold for a Django REST/Vue.js web app.
 # Quick Start
 
 1. Install <a href="https://github.com/audreyr/cookiecutter">cookiecutter</a>
-2. Scaffold your project by running `cookiecutter gh:vpolisky/vpolisky/cookiecutter-django-vuejs`
+2. Scaffold your project by running `cookiecutter gh:vpolisky/cookiecutter-django-vuejs`
 3. Enter your project's name when you are asked for it
 
 You also need _Vue CLI_ for building the client app and _docker-compose_.
